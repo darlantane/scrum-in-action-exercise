@@ -1,0 +1,37 @@
+{
+    "user_id": "123456",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "accounts": [
+      {
+        "account_id": "acc001",
+        "type": "checking",
+        "balance": 1543.75,
+        "currency": "USD",
+        "transactions": [
+          {
+            "transaction_id": "tx001",
+            "date": "2025-04-20",
+            "description": "Grocery Store",
+            "amount": -76.50,
+            "balance_after": 1620.25
+          },
+          {
+            "transaction_id": "tx002",
+            "date": "2025-04-18",
+            "description": "Salary Deposit",
+            "amount": 2000.00,
+            "balance_after": 1696.75
+          }
+        ]
+      },
+      {
+        "account_id": "acc002",
+        "type": "savings",
+        "balance": 8200.00,
+        "currency": "USD",
+        "transactions": []
+      }
+    ],
+    "last_login": "2025-04-22T15:34:00Z"
+  }
