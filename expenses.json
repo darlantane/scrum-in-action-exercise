@@ -1,0 +1,41 @@
+{
+    "date": "2025-04-23",
+    "expenses": [
+      {
+        "type": "Food",
+        "items": [
+          {
+            "name": "Lunch - Sandwich",
+            "amount": 8.50,
+            "payment_method": "Credit Card"
+          },
+          {
+            "name": "Coffee",
+            "amount": 3.00,
+            "payment_method": "Cash"
+          }
+        ]
+      },
+      {
+        "type": "Transport",
+        "items": [
+          {
+            "name": "Bus Ticket",
+            "amount": 2.75,
+            "payment_method": "Debit Card"
+          }
+        ]
+      },
+      {
+        "type": "Entertainment",
+        "items": [
+          {
+            "name": "Movie Ticket",
+            "amount": 12.00,
+            "payment_method": "Credit Card"
+          }
+        ]
+      }
+    ]
+  }
+  
